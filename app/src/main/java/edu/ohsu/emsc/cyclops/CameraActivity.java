@@ -13,6 +13,8 @@ import android.os.Bundle;
  * Capture and Save Files
  * Release the Camera
  *
+ * Test change for github repository.
+ *
  */
 public class CameraActivity extends Activity {
 
